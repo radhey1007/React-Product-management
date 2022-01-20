@@ -1,0 +1,13 @@
+.product-form{    
+    padding:10px 15px 10px;
+    width:100%;
+}
+.form-field{
+    width:100%;
+}
+.form-field label {
+    color:red;
+}
+.form-actions {
+    display:flex;
+}

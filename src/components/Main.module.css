@@ -1,0 +1,11 @@
+.container {
+    display:flex;
+}
+.form-wrapper {
+    display: flex;
+    width:50%;
+}
+.product-list-wrapper{
+  display:flex;
+  width:50%;  
+}
